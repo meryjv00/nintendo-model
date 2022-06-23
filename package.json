@@ -1,0 +1,25 @@
+{
+  "name": "nintendo-model",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meryjv00/nintendo-model.git"
+  },
+  "author": "María Juan Viñas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meryjv00/nintendo-model/issues"
+  },
+  "homepage": "https://github.com/meryjv00/nintendo-model#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
